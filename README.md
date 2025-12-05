@@ -22,3 +22,5 @@ Install the required libraries:
 
 ```bash
 pip install opencv-python mediapipe numpy
+
+![Image](https://github.com/user-attachments/assets/b4a9a82a-83c4-4e96-a907-4a8fb6836536)
